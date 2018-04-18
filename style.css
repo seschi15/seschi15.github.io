@@ -1,0 +1,71 @@
+Selector {
+}
+
+body{
+    background: #FFD966
+}
+
+h1{
+    font-size: 30pt;
+    font-family: Arial Black;
+    
+    text-align: center;
+    
+    border-style: solid;
+    border-width: 5px;
+    border-color: #c00000;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 25pt;
+    font-family: Arial Black, sans-serif;
+    
+    color: #c00000
+}
+
+h3{
+    font-size: 25pt;
+    font-family: Arial Black, sans-serif;
+    
+    color: #a00000;
+    
+    text-align: center;
+}
+
+
+.big-margin {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #c00000;
+    border-radius: 9px;
+    background: #FFD700;
+    margin: 25px;
+}
+ur{
+    text-decoration: none;
+}
+#ur{
+    text-decoration: none;
+    color: #c00000;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#ol_shop{
+    display: inline-block;
+}
+#li_shop {
+    font-size: 20px;
+    color: #c00000;
+}
+
+
+
+#products_li{
+    font-size: 20px;
+    color: #c00000;
+}
+#li_n2a{
+    display: inline-block;
+}
